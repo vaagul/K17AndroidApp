@@ -5,4 +5,5 @@ The basic two activities are created.
 I am half way through inserting the profile image
 I have not uploaded that part because the entire app crashed when the button calling the imageView is clicked.
 The font in the second activity "Dashboard" has been changed to monospace. I have'nt used font files because the are big in size and a few requires license.
-The app is not crashing anywhere!!
+I have implemented the DatePickerDialogue for the entries of DateofBirth to make it look good. 
+AND The app is not crashing anywhere!!
